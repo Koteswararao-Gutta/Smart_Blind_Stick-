@@ -59,4 +59,3 @@ We can switch it on and we will diretly use it
 - Mention any collaborators, mentors, or institutions that contributed to the project.
 ## Recognized as the best project in Techknow - 2019 First Edition.
 
-Feel free to customize this README template to best fit your project's details and style. Add more sections or modify existing ones as needed. Remember to include images, diagrams, or links to videos that can help users better understand your Smart Blind Stick project.
