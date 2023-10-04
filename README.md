@@ -9,12 +9,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 The Smart Blind Stick is an assistive device designed to improve the mobility and independence of visually impaired individuals. It incorporates ultrasonic sensors and IoT technology to detect obstacles in the user's path and provide real-time feedback through haptic cues. This project was developed at SRM University, India, from June 2019 to October 2019.
@@ -36,7 +31,6 @@ The Smart Blind Stick is an assistive device designed to improve the mobility an
 - Arduino (or any other microcontroller)
 - C/C++ Programming
 - Multidisciplinary collaboration
-- (You can add more technologies here)
 
 ## How It Works
 
